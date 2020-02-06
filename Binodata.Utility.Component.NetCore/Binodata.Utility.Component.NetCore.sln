@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Binodata.Utility.Component.NetCore", "Binodata.Utility.Component.NetCore\Binodata.Utility.Component.NetCore.csproj", "{A999111F-80D0-419B-89E9-6F4B58111928}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A999111F-80D0-419B-89E9-6F4B58111928}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A999111F-80D0-419B-89E9-6F4B58111928}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A999111F-80D0-419B-89E9-6F4B58111928}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A999111F-80D0-419B-89E9-6F4B58111928}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {93DB6467-703C-44FB-8BD5-2486FA4A7951}
+	EndGlobalSection
+EndGlobal
